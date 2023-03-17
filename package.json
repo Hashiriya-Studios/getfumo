@@ -1,5 +1,5 @@
 {
-  "name": "getfumo",
+  "name": "getfumo.js",
   "version": "1.0.0",
   "description": "Simple and fast wrapper of fumo-api without dependencies.",
   "main": "index.js",
