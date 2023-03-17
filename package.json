@@ -1,6 +1,6 @@
 {
   "name": "getfumo.js",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Simple and fast wrapper of fumo-api without dependencies.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Hashiriya-Studios/getfumo.js.git"
   },
-  "keywords": ["fumo", "api", "simple", "wrapper"],
+  "keywords": [
+    "fumo",
+    "api",
+    "simple",
+    "wrapper"
+  ],
   "author": "tsuchipls",
   "license": "ISC",
   "bugs": {
