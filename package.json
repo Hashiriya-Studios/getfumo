@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hashiriya-Studios/getfumo.git"
+    "url": "git+https://github.com/Hashiriya-Studios/getfumo.js.git"
   },
   "keywords": ["fumo", "api", "simple", "wrapper"],
   "author": "tsuchipls",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hashiriya-Studios/getfumo/issues"
+    "url": "https://github.com/Hashiriya-Studios/getfumo.js/issues"
   },
-  "homepage": "https://github.com/Hashiriya-Studios/getfumo#readme"
+  "homepage": "https://github.com/Hashiriya-Studios/getfumo.js#readme"
 }
